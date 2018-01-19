@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<layout version="0.1.0">
+	<catalog_product_view translate="label">
+		<reference name="product.info.options.wrapper">
+			<reference name="product.info.options">
+				<action method="setTemplate">
+					<template>edge/catalog/product/view/options.phtml</template>
+				</action>
+			</reference>
+		</reference>
+	</catalog_product_view>
+</layout>
+
